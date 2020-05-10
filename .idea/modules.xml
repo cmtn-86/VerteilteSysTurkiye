@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DateServer.iml" filepath="$PROJECT_DIR$/DateServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdpHomeSmart.iml" filepath="$PROJECT_DIR$/UdpHomeSmart.iml" />
     </modules>
   </component>
 </project>
