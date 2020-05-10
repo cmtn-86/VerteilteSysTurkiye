@@ -10,6 +10,6 @@ javac UDPEchoServer.java && java UDPEchoServer
 
 javac UDPEchoClient.java && java UDPEchoClient 
 
-## ekrana bişiler yaz diğer terminalde onları okursun 
+## ekrana bişiler yaz birinci terminalde onları okursun 
 
 kaynak : http://underpop.online.fr/j/java/help/example-udp-echo-server-client-java-game.html.gz
