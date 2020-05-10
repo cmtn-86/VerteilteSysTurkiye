@@ -1,13 +1,15 @@
-terminal çalıştır 
+terminal çalıştır (cmd yani)
 
 cd src 
 
-#server çalıştır 
+#server çalıştır (bunu birinci terminalde aç)
 
-javac DateServer.java && java DateServer
+javac UDPEchoServer.java && java UDPEchoServer
 
-#client çalıştır 
+#client çalıştır (bunu ikinci terminalde aç)
 
-javac DateClient.java && java DateClient 127.0.0.1
+javac UDPEchoClient.java && java UDPEchoClient 
 
-kaynak : https://cs.lmu.edu/~ray/notes/javanetexamples/
+# ekrana bişiler yaz diğer terminalde onları okursun 
+
+kaynak : http://underpop.online.fr/j/java/help/example-udp-echo-server-client-java-game.html.gz
